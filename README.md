@@ -40,3 +40,6 @@ It is important to analyze customers. Using available demographics data try to a
     Which ones tend to cancel the subscription in first/second/third moths/half a year?
     Having the nation people demographics statistics by location identify the regions with the biggest potentials for sales (to provide marketing campaigns)
     Measure the sales team effectiveness by comparing the sales forecast by location by customer segment by sales manager by month.  
+
+
+BM link https://docs.google.com/spreadsheets/d/e/2PACX-1vTp_crpz87hTxv18kZP95JT2XDjSCOXOGGHdl6jpd9G2ausjThk3KMwuHhocdvnOI0TSb8vm2S1nbDC/pubhtml
