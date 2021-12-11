@@ -42,4 +42,4 @@ It is important to analyze customers. Using available demographics data try to a
     Measure the sales team effectiveness by comparing the sales forecast by location by customer segment by sales manager by month.  
 
 
-BM link https://docs.google.com/spreadsheets/d/e/2PACX-1vTp_crpz87hTxv18kZP95JT2XDjSCOXOGGHdl6jpd9G2ausjThk3KMwuHhocdvnOI0TSb8vm2S1nbDC/pubhtml
+BM link [https://docs.google.com/spreadsheets/d/e/2PACX-1vTp_crpz87hTxv18kZP95JT2XDjSCOXOGGHdl6jpd9G2ausjThk3KMwuHhocdvnOI0TSb8vm2S1nbDC/pubhtml](https://docs.google.com/spreadsheets/d/e/2PACX-1vTp_crpz87hTxv18kZP95JT2XDjSCOXOGGHdl6jpd9G2ausjThk3KMwuHhocdvnOI0TSb8vm2S1nbDC/pubhtml)
